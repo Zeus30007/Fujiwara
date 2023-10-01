@@ -1,6 +1,8 @@
-[![-----------------------------------------------------](https://github.com/diggilly/kinflux_bot_God/blob/main/Guru.jpg)](#table-of-contents)
+[![-----------------------------------------------------]
 <p align="center">
-    <img src="./AnyaPikaMedia/HomeScreen/Anyapic.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+<a href="https://github.com/Yakashi13/Yaka-bot">
+    <img src="https://media.tenor.com/7IKhVM983G8AAAAC/nom-nom-death-note.gif">
+  </a>
 
 ## IMPORTANT
 
