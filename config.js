@@ -47,16 +47,16 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝕋𝕠𝕜𝕪𝕠 𝕄𝕒𝕟𝕛𝕚 𝔾𝕒𝕟𝕘'
+global.botname = 'Inital D first stage'
 global.premium = 'true'
-global.packname = '𝕋𝕠𝕜𝕪𝕠 𝕄𝕒𝕟𝕛𝕚 𝔾𝕒𝕟𝕘' 
+global.packname = 'fujiwara' 
 global.author = 'мιкєу' 
 global.igfg = '▢ Follow on Instagram\nhttps://chat.whatsapp.com/GFMVLmJBvOS2DM9uSlAmCO\n' 
-global.dygp = 'https://chat.whatsapp.com/GFMVLmJBvOS2DM9uSlAmCO'
-global.fgsc = 'https://github.com/diggilly/kinflux-bot' 
+global.dygp = 'https://chat.whatsapp.com/EYfDqkMBK4fJOySOhph31X'
+global.fgsc = 'https://github.com/zeus30007/Fujiwara' 
 global.fgyt = 'https://chat.whatsapp.com/GFMVLmJBvOS2DM9uSlAmCO'
 global.fgpyp = ''
-global.fglog = 'https://raw.githubusercontent.com/diggilly/kinflux-bot/main/Guru.jpg' 
+global.fglog = 'https://telegra.ph/file/a1022369ff30941aa4779.jpg' 
 
 
 global.wait = '*⌛ _kinflux bot loading..._*\n*▰▰▰▱▱▱▱▱*'
