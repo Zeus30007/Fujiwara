@@ -56,7 +56,7 @@ let str = `
 ┆🎌 *Diamonds:* ${diamond}
 ┆🎌 *Total users:* ${rtotalreg}
 ┗┬──────────────┈ ⳹
-┏┤   User Info
+┏┤   🎌User Info
 ┆┗──────────────┈ ⳹ 
 ┆🎌 𝗡𝗮𝗺𝗲 :${name}
 │🎌 𝗡𝘂𝗺𝗯𝗲𝗿 : ${taguser}
@@ -66,7 +66,8 @@ let str = `
 ┆┗──────────────┈ ⳹
 ┆🎌Time :${wib} 
 ┆🎌𝗗𝗮𝘁𝗲 :${date} 
-┗─────────────────⬣
+┗─────────────────
+ Æ86
 ┆──────────────┈ ⳹
 ┆type /list to
 ┆to see all cmd
@@ -107,52 +108,32 @@ function clockString(ms) {
       return res
     }
     const quotes = [
-      "I'm not lazy, I'm just on my energy saving mode.",
-      "Life is short, smile while you still have teeth.",
-      "I may be a bad influence, but darn I am fun!",
-      "I'm on a whiskey diet. I've lost three days already.",
-      "Why don't some couples go to the gym? Because some relationships don't work out.",
-      "I told my wife she should embrace her mistakes... She gave me a hug.",
-      "I'm great at multitasking. I can waste time, be unproductive, and procrastinate all at once.",
-      "You know you're getting old when you stoop to tie your shoelaces and wonder what else you could do while you're down there.",
-      "I'm so good at sleeping, I can do it with my eyes closed.",
-      "If you think nobody cares if you’re alive, try missing a couple of payments.",
-      "I used to think I was indecisive, but now I'm not so sure.",
-      "If you can't convince them, confuse them.",
-      "I told my wife she was drawing her eyebrows too high. She looked surprised.",
-      "I'm not clumsy, I'm just on a mission to test gravity.",
-      "I told my wife she should do more push-ups. She said, 'I could do a hundred!' So I counted to ten and stopped.",
-      "Life is like a box of chocolates; it doesn't last long if you're hungry.",
-      "I'm not saying I'm Wonder Woman, I'm just saying no one has ever seen me and Wonder Woman in the same room together.",
-      "Why do they call it beauty sleep when you wake up looking like a troll?",
-      "I don't always lose my phone, but when I do, it's always on silent.",
-      "My bed is a magical place where I suddenly remember everything I was supposed to do.",
-      "I love the sound you make when you shut up.",
-      "I'm not arguing, I'm just explaining why I'm right.",
-      "I'm not a complete idiot, some parts are missing.",
-      "When life gives you lemons, squirt someone in the eye.",
-      "I don't need anger management. You just need to stop making me angry.",
-      "I'm not saying I'm Batman. I'm just saying no one has ever seen me and Batman in the same room together.",
-      "I'm not saying I'm Superman. I'm just saying no one has ever seen me and Superman in the same room together.",
-      "I'm not saying I'm Spider-Man. I'm just saying no one has ever seen me and Spider-Man in the same room together.",
-      "I'm not saying I'm a superhero. I'm just saying no one has ever seen me and a superhero in the same room together.",
-      "The early bird can have the worm because worms are gross and mornings are stupid.",
-      "If life gives you lemons, make lemonade. Then find someone whose life has given them vodka and have a party!",
-      "The road to success is always under construction.",
-      "I am so clever that sometimes I don't understand a single word of what I am saying.",
-      "Some people just need a high-five. In the face. With a chair.",
-      "I'm not saying I'm perfect, but I'm pretty close.",
-      "A day without sunshine is like, you know, night.",
-      "The best way to predict the future is to create it.",
-      "If you can't be a good example, then you'll just have to be a horrible warning.",
-      "I don't know why I keep hitting the escape button. I'm just trying to get out of here.",
-      "I'm not lazy. I'm on energy-saving mode.",
-      "I don't need a hairstylist, my pillow gives me a new hairstyle every morning.",
-      "I don't have a bad handwriting, I have my own font.",
-      "I'm not clumsy. It's just the floor hates me, the table and chairs are bullies, and the walls get in my way.",
-      "I'm not saying I'm Batman. I'm just saying no one has ever seen me and Batman in the same room together.",
-      "I'm not saying I'm Wonder Woman. I'm just saying no one has ever seen me and Wonder Woman in the same room together.",
-      "I'm not saying I'm Superman. I'm just saying no one has ever seen me and Superman in the same room together.",
-      "I'm not saying I'm Spider-Man. I'm just saying no one has ever seen me and Spider-Man in the same room together.",
-      "I'm not saying I'm a superhero. I'm just saying no one has ever seen me and a superhero in the same room together.",
-     
+1. "I'm not lazy; I'm just cruising in energy-saving mode."
+2. "Life's a short race; keep smiling while you've still got teeth."
+3. "I may be a wild influence, but boy, am I a thrilling drift!"
+4. "I'm on a whiskey speedway; lost three days already."
+5. "Why don't some couples hit the touge? Some relationships just don't have the horsepower."
+6. "Told my partner to embrace their mistakes; they hugged it out on the hairpin."
+7. "I'm a pro at multitasking: wasting time, being unproductive, and procrastinating, all in one drift."
+8. "When you bend to tie your shoelaces and wonder what else you could do down there, you know you're getting old on the circuit."
+9. "I'm so good at racing; I can do it with my eyes closed."
+10. "If you think nobody cares if you're in the race, try missing a couple of laps."
+11. "I used to think I was indecisive, but now I'm not so sure about it."
+12. "If you can't overtake them, make the track so confusing they lose their way in the corners."
+13. "Told my partner her eyebrows were too high; she looked surprised on the straightaway."
+14. "I'm not clumsy; I'm just on a mission to test the limits of gravity on the racetrack."
+15. "Told my partner to do more push-ups; she said she could do a hundred! So, I counted to ten and hit the brakes."
+16. "Life is like a fast car; it doesn't last long when you're hungry for the win."
+17. "I'm not saying I'm Takumi Fujiwara; I'm just saying no one's seen me and Takumi on the same touge."
+18. "Why do they call it beauty sleep? You wake up looking like a race car in need of a pit stop."
+19. "I don't always lose my phone, but when I do, it's always on silent in the pit lane."
+20. "My bed is a pit stop where I suddenly remember everything I was supposed to do on the track."
+21. "I love the sound of your silence, just like a race car engine at the starting line."
+22. "I'm not arguing; I'm just explaining why I'm leading the pack."
+23. "I'm not a complete rookie; some parts are just upgraded for maximum speed."
+24. "When life hands you lemons, squirt someone in the eye with lemonade."
+25. "I don't need anger management; you just need to stop getting in my way on the track."
+26. "I'm not saying I'm Takumi Fujiwara; I'm just saying no one's seen me and Takumi racing side by side."
+27. "I'm not saying I'm Ryosuke Takahashi; I'm just saying no one's seen me and Ryosuke blazing through the circuit together."
+28. "I'm not saying I'm Keisuke Takahashi; I'm just saying no one's seen me and Keisuke navigating the racetrack in tandem."
+29. "I'm not saying I'm a racing legend; I'm just saying no one's seen me and a legend dueling for the championship."
