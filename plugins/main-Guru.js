@@ -1,17 +1,17 @@
 let handler = async m => m.reply(`
 
-≡  *kinflux  ┃ ᴮᴼᵀ*   GROUPS
+≡  *INITIAL D FIRST STAGE*   GROUPS
 
 ─────────────
 ▢ Join public bot group and support
-https://chat.whatsapp.com/KggVmnH7ki6HoyD0025gDD
+https://chat.whatsapp.com/KktNcSKweknA9yvP9gnkCK
 
 ▢ Group 2
-https://chat.whatsapp.com/KggVmnH7ki6HoyD0025gDD
+https://chat.whatsapp.com/CVOvwAiCcXIDX7jQrn5whC
 
 ▢ threads for instagram
 
-https://threads.net/@kinfluxdigital
+https://threads.net/@the_future_fox69
 
 ─────────────
 ≡ Disabled links? enter here! 
@@ -19,11 +19,11 @@ https://threads.net/@kinfluxdigital
 
 ─────────────
 ▢ *Owner Telegram*
-  https://t.me/kinflux_bot
+  
 
 ▢ *owner number*
-• https://wa.me/254110077535
-• https://wa.me/254110377776
+• https://wa.me/918618971837
+• https://wa.me/6797309646
 
 
 `.trim())
