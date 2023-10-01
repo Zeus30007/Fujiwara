@@ -16,7 +16,7 @@
  <a href="#"><img title="initial_D_first_stage" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/diggilly"><img title="Author" src="https://img.shields.io/badge/AUTHOR-kinflux digital-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/diggilly"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Mirai%20Fox-green?style=badge%26logo&logo=github&logoColor=Gray&labelColor=Red&color=Red"></a>
 
 ---------
 ## initial-D-first-stage is a powerfull Multi Device whatsapp bot. ⚡️ Lightning-Fast Responses: 300 feutures and many more
@@ -45,7 +45,7 @@ Initial D
 
 ## ```fork the repo first Here```
            
-<a href='[https://github.com/Zeus30007/Fujiwara//fork]' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
+<a href='https://github.com/Zeus30007/Fujiwara//fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/></a>
 
   
 
