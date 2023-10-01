@@ -1,7 +1,7 @@
 [![-----------------------------------------------------]
 <p align="center">
 <a href="https://github.com/zeus30007/Fujiwara">
-    <img src="https://tenor.com/bwNLn.gif">
+    <img src="https://64.media.tumblr.com/b6667c3beb440ffa8751ed81487a9cf4/tumblr_pn8z5cWrxE1s15iy7o2_r1_400.gif">
   </a>
 
 ## IMPORTANT
