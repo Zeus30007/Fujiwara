@@ -6,9 +6,9 @@ let _package = JSON.parse(await promises.readFile(join(__dirname, '../package.js
   
 m.reply(`
 
-*kinflux bot God v2.0 WHATSAPP USER BOT 💃🏻♥️*
+*FUJIWARA bot God v2.0 WHATSAPP USER BOT 💃🏻♥️*
 
-_kinflux bot God Is a Multi device Whatsapp User Bot created By kinflux digital, , _
+FUNIWARA Is a Multi device Whatsapp User Bot created By kinflux digital, , _
 ᴘʟᴇᴀꜱᴇ ꜱᴛᴀʀ ᴛʜᴇ ʀᴇᴘᴏ ᴀɴᴅ ꜰᴏʟʟᴏᴡ ᴍᴇ ᴏɴ ɢɪᴛʜᴜʙ:
 
   ▢ Git : ${_package.homepage}
@@ -20,15 +20,15 @@ _kinflux bot God Is a Multi device Whatsapp User Bot created By kinflux digital,
 ⚖️ license : *MIT License* 
 ⚙️ Branch : *main*
 🧰 Last Updated :2023-08-29T05:10:54Z 
-🚁 owner number : https://wa.me/254110377776
-                : https://wa.me/254110077535
- 🎌 bot group https://chat.whatsapp.com/BLjStbNJvG2H7Z3hlDmv28
+🚁 owner number : https://wa.me/918618971837
+                : https://wa.me/6797309646
+ 🎌 bot group https://chat.whatsapp.com/CVOvwAiCcXIDX7jQrn5whC
               
       
-*👸Thanks for using kinflux bot God*
+*👸Thanks for using Fujiwara bot*
 
-*® kinflux digital*
-*© 2023 kinflux digital*
+*® mirai fox*
+*© 2023 mirai fox*
 
 `.trim())
     
