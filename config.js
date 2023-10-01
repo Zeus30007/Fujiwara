@@ -8,7 +8,7 @@ import axios from 'axios'
 
 global.owner = [
   ['6797309646', 'мιкєу', true],
-  ['27781973632', 'katagiri', true], 
+  ['918618971837', 'Nathan', true], 
   [''] 
 ] //Number of owners
 
@@ -51,7 +51,7 @@ global.botname = 'Inital D first stage'
 global.premium = 'true'
 global.packname = 'fujiwara' 
 global.author = 'мιкєу' 
-global.igfg = '▢ Follow on Instagram\nhttps://chat.whatsapp.com/GFMVLmJBvOS2DM9uSlAmCO\n' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/the_future_fox69/\n' 
 global.dygp = 'https://chat.whatsapp.com/EYfDqkMBK4fJOySOhph31X'
 global.fgsc = 'https://github.com/zeus30007/Fujiwara' 
 global.fgyt = 'https://chat.whatsapp.com/GFMVLmJBvOS2DM9uSlAmCO'
@@ -59,7 +59,7 @@ global.fgpyp = ''
 global.fglog = 'https://telegra.ph/file/a1022369ff30941aa4779.jpg' 
 
 
-global.wait = '*⌛ _kinflux bot loading..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _fujiwara bot loading..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
