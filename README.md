@@ -32,7 +32,7 @@ Initial D
 
 ## ```Tap Here For Help ⛩️``` 
   <a href="https://wa.me/6797309646?text=Hello%20zamzack254%20sir...%20I%20need%20some%20help%20in%20kinflux_bot_God%20v2">
-    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/diggilly/kinflux_bot_God/blob/main/Guru.jpg" />
+    <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://telegra.ph/file/a1022369ff30941aa4779.jpg" />
   
     Tap here for contact me on WhatsApp Messenger 🎐
     
