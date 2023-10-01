@@ -1,4 +1,4 @@
-import { createHash } from 'crypto'
+import import { createHash } from 'crypto'
 import PhoneNumber from 'awesome-phonenumber'
 import { canLevelUp, xpRange } from '../lib/levelling.js'
 import fetch from 'node-fetch'
@@ -37,7 +37,7 @@ let quote = quotes[Math.floor(Math.random() * quotes.length)];
 
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
-🎌 *_you leveled up ${name}, ${greeting}! We're going on a pro racer!_* 🎌
+🚀 *_Buckle up ${name}, ${greeting}! We're going on an adventure!_* 🚀
 
 🎌 *_Quote of the day: ${quote}_* 🎌
 
