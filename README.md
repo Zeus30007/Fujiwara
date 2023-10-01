@@ -1,7 +1,7 @@
 [![-----------------------------------------------------]
 <p align="center">
-<a href="https://github.com/Yakashi13/Yaka-bot">
-    <img src="https://media.tenor.com/7IKhVM983G8AAAAC/nom-nom-death-note.gif">
+<a href="https://github.com/zeus30007/Fujiwara">
+    <img src="https://tenor.com/bwNLn.gif">
   </a>
 
 ## IMPORTANT
